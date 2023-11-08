@@ -12,7 +12,7 @@
 *请求方式：POST*
 
 **提交数据**
-
+<details>
 ```json
 {
         "comm": {
@@ -31,5 +31,5 @@
         }
     }
 ```
+</details>
 
-<details>
