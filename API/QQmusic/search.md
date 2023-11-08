@@ -22,10 +22,10 @@
             "method": "DoSearchForQQMusicDesktop",
             "module": "music.search.SearchCgiService",
             "param": {
-                "grp": 1,
-                "num_per_page": 1,
-                "page_num": 1,
-                "query": ""
+                "grp": 1, //多版本
+                "num_per_page": 1, //搜索页数
+                "page_num": 1, //数据返回条数
+                "query": "" //搜索的歌名
             }
         }
     }
